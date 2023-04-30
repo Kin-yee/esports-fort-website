@@ -2,7 +2,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-color: #292d42;
+    background-color: #000000;
 }
 
 .right {
@@ -31,28 +31,28 @@ body {
 }
 
 .link{
-    color: #9868d8;
+    color: #FF5C00;
     text-decoration: none;
 }
 
 @media only screen and (min-width: 600px) {
     .head-section {
         padding-top: 5%;
-        background-color: #292d42;
+        background-color: #000000;
         padding-bottom: 3%;
     }
 
     .footer-section {
         height: 20%;
-        background-color: #292d42;
+        background-color: #000000;
     }
 
     .appstoreLink {
         font-size: 1.8vw;
         border-width: 2px;
-        border-color: #0c76ea;
+        border-color: #FF5C00;
         border-style: solid;
-        color: #0c76ea;
+        color: #FF5C00;
         border-radius: 50px;
         background-color: none;
         padding-top: 1%;
@@ -68,11 +68,11 @@ body {
     .appstoreLink:hover {
         font-size: 1.8vw;
         border-width: 2px;
-        border-color: #0c76ea;
+        border-color: #FF5C00;
         border-style: solid;
         color: #fff;
         border-radius: 50px;
-        background-color: #0c76ea;
+        background-color: #FF5C00;
         padding-top: 1%;
         padding-bottom: 1%;
         padding-left: 3%;
@@ -84,7 +84,7 @@ body {
     }
 
     .section {
-        background-color: #292d42;
+        background-color: #000000;
         z-index: 999;
         border-radius: 0px;
     }
@@ -165,7 +165,7 @@ body {
     }
 
     .image1 {
-        background-color: #353a50;
+        background-color: #4662F9;
         object-fit: contain;
         max-height: 60vh;
         width: 100%;
@@ -176,13 +176,13 @@ body {
     }
 
     .image3 {
-        background-color: #353a50;
+        background-color: #4662F9;
         width: 100%;
         border-radius: 10%;
     }
 
     .image3 {
-        background-color: #353a50;
+        background-color: #4662F9;
         width: 100%;
         border-radius: 10%;
     }
@@ -262,21 +262,21 @@ body {
 @media only screen and (max-width: 600px) {
     .head-section {
         padding-top: 15%;
-        background-color: #292d42;
+        background-color: #000000;
         padding-bottom: 20%;
     }
 
     .footer-section {
         height: 20%;
-        background-color: #292d42;
+        background-color: #000000;
     }
 
     .appstoreLink {
         font-size: 6vw;
         border-width: 2px;
-        border-color: #0c76ea;
+        border-color: #FF5C00;
         border-style: solid;
-        color: #0c76ea;
+        color: #FF5C00;
         border-radius: 50px;
         background-color: none;
         padding-top: 3%;
@@ -292,11 +292,11 @@ body {
     .appstoreLink:hover {
         font-size: 6vw;
         border-width: 2px;
-        border-color: #0c76ea;
+        border-color: #FF5C00;
         border-style: solid;
         color: #FFF;
         border-radius: 50px;
-        background-color: #0c76ea;
+        background-color: #FF5C00;
         padding-top: 3%;
         padding-bottom: 3%;
         padding-left: 10%;
@@ -309,11 +309,11 @@ body {
 
     .section {
         border-bottom-width: 2px;
-        border-bottom-color: #0c76ea;
+        border-bottom-color: #FF5C00;
         border-bottom-style: solid;
 
         padding-top: 5%;
-        background-color: #292d42;
+        background-color: #000000;
         z-index: 999;
         border-radius: 0px;
     }
@@ -332,7 +332,7 @@ body {
         margin-left: 10%;
         margin-right: 10%;
         padding-top: 5%;
-        font-size: 1vw;
+        font-size: 1.5em;
         text-align: center;
     }
 
@@ -382,7 +382,7 @@ body {
     }
 
     .image1 {
-        background-color: #353a50;
+        background-color: #4662F9;
         width: 100%;
     }
 
